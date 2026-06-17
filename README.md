@@ -3,7 +3,7 @@
 ![AI](https://img.shields.io/badge/AI-Antigravity%20by%20DeepMind-007ACC?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-ESP32-5C821A?style=flat-square)
 ![Framework](https://img.shields.io/badge/Framework-Arduino-00979D?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-F1C40F?style=flat-square)
+![License](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)
 
 A standalone, ESP32-based graphical tool built with **FabGL** and **Bluepad32**. 
 
@@ -185,4 +185,4 @@ This project relies on the incredible work of the open-source community. Special
 
 **AI Disclosure:** Portions of the code and documentation in this project were generated, structured, or refined with the assistance of Artificial Intelligence (Google DeepMind's Advanced Agentic Coding tools). 
 
-**License:** This project is licensed under the **MIT License**. You are free to use, modify, distribute, and integrate this tool or its generated configuration files into your own commercial or non-commercial embedded projects.
+**License:** This project is licensed under the **GNU General Public License v3.0 (GPLv3)**. Because this project statically links against the [FabGL](https://github.com/fdivitto/FabGL) library (which is licensed under GPLv3), this project is distributed under the same terms. You are free to use, modify, and distribute this tool; however, any derivative works or binaries built from this project must also be open-source and licensed under GPLv3.
